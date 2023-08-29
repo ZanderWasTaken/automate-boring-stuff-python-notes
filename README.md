@@ -12,7 +12,7 @@ This repository is derived from the lectures covered in [Automate the Boring Stu
 - Section 2: [Flow Control](#id-section2)
 - Section 3: [Functions](#id-section3)
 - Section 4: [Lists](#id-section4)
-- - Section 5: [Dictionaries](#id-section4)
+- Section 5: [Dictionaries](#id-section4)
 - Section 6: [MANIPULATING STRINGS](#id-section6)
 - Section 7: [PATTERN MATCHING WITH REGULAR EXPRESSIONS](#id-section7)
 - Section 8: [More About Strings](#id-section8)
