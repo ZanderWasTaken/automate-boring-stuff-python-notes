@@ -11,7 +11,7 @@ This repository is derived from the lectures covered in [Automate the Boring Stu
 - Section 1: [Python Basics](#id-section1)
 - Section 2: [Flow Control](#id-section2)
 - Section 3: [Functions](#id-section3)
-- Section 4: [Handling Errors with Try/Except](#id-section4)
+- Section 4: [Lists](#id-section4)
 - Section 6: [Lists](#id-section6)
 - Section 7: [Dictionaries](#id-section7)
 - Section 8: [More About Strings](#id-section8)
